@@ -1,2 +1,5 @@
 println("Hello")
 print ("Hi")
+if (i>0&b<3){
+sout ("5")}
+}
