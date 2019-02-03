@@ -1,8 +1,10 @@
-println("Hello")
-print ("Hi")
+println("Hello;")
+print ("Hi;")
 if (i>0&b<3){
 sout ("5")}
 }
 in up
 print ("Hellj my brothers")
 print hi hi hi 3
+hdgg
+new
